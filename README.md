@@ -1,5 +1,5 @@
 # 字节跳动算法刷题路线
-> 来源：[CodeJeet 字节跳动题库](https://codejeet.com/company/bytedance)（64 题，6 Easy / 49 Medium / 9 Hard）。
+> （64 题，6 Easy / 49 Medium / 9 Hard）。
 > 编排逻辑：**按算法范式分阶段，每阶段内由易到难**。同类套路集中练，形成模式识别能力，比按频率乱刷高效得多。
 > 适用：字节实习 / 校招算法面（Medium 是绝对主力区间，正好对应本题库 77% 的题）。
 
